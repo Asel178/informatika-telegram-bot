@@ -14,4 +14,4 @@
 ## 🛠 Қолданылған технологиялар
 * Python 3.x
 * Telebot (немесе aiogram) кітапханасы
-t.me/my_test_pro_2024_2026_bot.
+(t.me/my_test_pro_2024_2026_bot.)
